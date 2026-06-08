@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Asad! 👋
 
-<!--
-**asadnaeem-dev/asadnaeem-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ NUST SEECS | Just a dev trying to cook with Python/typescript/SQL n shi while surviving academic projects. Hit me up for sum collabs type shi.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, TypeScript, JavaScript, SQL, HTML/CSS
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend & DB:** PostgreSQL, Supabase, Node.js
+* **DevOps & Tools:** Docker, Git, GitHub Actions
+
+---
+
+## 🥊 Featured Project
+
+### [WallSplat.gg - Tekken 8 World Tour Leaderboard & Analytics](https://github.com/asadnaeem-dev/tekken8-leaderboard)
+A premium web application designed to track, scrape, and analyze TWT standings and head-to-head pro matchups.
+* **Next.js 14 App Router** server-rendering directly to a **Supabase PostgreSQL** database.
+* Integrated **BeautifulSoup4 & Playwright** Python scraper with robust bracket-simulation algorithms.
+* Secure administrative control panel for real-time scraping synchronization.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadnaeem-dev&show_icons=true&theme=dark" alt="Asad's GitHub Stats" />
+</p>
