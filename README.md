@@ -22,9 +22,3 @@ A premium web application designed to track, scrape, and analyze TWT standings a
 * Secure administrative control panel for real-time scraping synchronization.
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadnaeem-dev&show_icons=true&theme=dark" alt="Asad's GitHub Stats" />
-</p>
