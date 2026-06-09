@@ -22,3 +22,9 @@ A premium web application designed to track, scrape, and analyze TWT standings a
 * Secure administrative control panel for real-time scraping synchronization.
 
 ---
+
+## 📚 Currently Working On
+
+- **Learning LangChain** - Exploring LangChain framework for building advanced AI applications and language model integrations
+
+---
