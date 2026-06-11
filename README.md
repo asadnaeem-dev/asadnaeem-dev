@@ -26,5 +26,6 @@ A premium web application designed to track, scrape, and analyze TWT standings a
 ## 📚 Currently Working On
 
 - **Learning LangChain** - Exploring LangChain framework for building advanced AI applications and language model integrations
+- **Learning Full Stack Web Development** - Mastering the basics of end-to-end web development
 
 ---
