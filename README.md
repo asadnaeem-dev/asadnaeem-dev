@@ -27,5 +27,6 @@ A premium web application designed to track, scrape, and analyze TWT standings a
 
 - **Learning LangChain** - Exploring LangChain framework for building advanced AI applications and language model integrations
 - **Learning Full Stack Web Development** - Mastering the basics of end-to-end web development
+- **Learning AI from Google Skills** - Building AI expertise through Google's comprehensive AI skills program
 
 ---
