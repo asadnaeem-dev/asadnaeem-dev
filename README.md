@@ -1,6 +1,6 @@
 # Hi there, I'm Asad! 👋
 
-### ⚡ NUST SEECS | Just a dev trying to cook with Python/typescript/SQL n shi while surviving academic projects. Hit me up for sum collabs type shi.
+### ⚡ NUST SEECS | Just a dev trying to cook with Python/TypeScript/SQL n shi while surviving academic projects. Hit me up for sum collabs type shi.
 
 ---
 
@@ -13,20 +13,19 @@
 
 ---
 
-## 🥊 Featured Project
+## 🕯️ Featured Project
 
-### [WallSplat.gg - Tekken 8 World Tour Leaderboard & Analytics](https://github.com/asadnaeem-dev/tekken8-leaderboard)
-A premium web application designed to track, scrape, and analyze TWT standings and head-to-head pro matchups.
-* **Next.js 14 App Router** server-rendering directly to a **Supabase PostgreSQL** database.
-* Integrated **BeautifulSoup4 & Playwright** Python scraper with robust bracket-simulation algorithms.
-* Secure administrative control panel for real-time scraping synchronization.
+### [The Conspiracy Oracle](https://conspiracy-eight.vercel.app) · [GitHub](https://github.com/asadnaeem-dev/conspiracy)
 
----
+> *Speak a word, and the Oracle shall reveal what **they** don't want you to know.*
 
-## 📚 Currently Working On
+A dark gothic web app that generates AI-powered conspiracy theory essays from a single keyword — built for atmosphere and paranoia.
 
-- **Learning LangChain** - Exploring LangChain framework for building advanced AI applications and language model integrations
-- **Learning Full Stack Web Development** - Mastering the basics of end-to-end web development
-- **Learning AI from Google Skills** - Building AI expertise through Google's comprehensive AI skills program
+* 🔮 **AI-Generated Dossiers** — Groq (LLaMA 3.1) produces gripping 3-paragraph investigative essays
+* 🏚️ **Animated SVG Haunted Houses** — procedural pen-sketch reveal on load, parallax on mouse
+* ⚡ **Web Audio API** — generative wind, thunder, typewriter sounds, and ghostly crystal ball whispers
+* 🌩️ **Full Atmosphere** — lightning flashes, flying bats, drifting fog, floating particles
+* 📤 **Share as Image** — download your theory as a styled PNG via html2canvas
+* 🛡️ **Hardened API** — IP rate limiting, CORS whitelist, prompt injection filtering, security headers
 
----
+**Stack:** Vanilla JS · CSS · Vercel Serverless · Groq API
