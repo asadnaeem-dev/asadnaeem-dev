@@ -29,3 +29,8 @@ A dark gothic web app that generates AI-powered conspiracy theory essays from a 
 * 🛡️ **Hardened API** — IP rate limiting, CORS whitelist, prompt injection filtering, security headers
 
 **Stack:** Vanilla JS · CSS · Vercel Serverless · Groq API
+
+📚 Currently Working On
+Learning LangChain - Exploring LangChain framework for building advanced AI applications and language model integrations
+Learning Full Stack Web Development - Mastering the basics of end-to-end web development
+Learning AI from Google Skills - Building AI expertise through Google's comprehensive AI skills program
