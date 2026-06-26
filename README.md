@@ -19,8 +19,6 @@
 
 > *Speak a word, and the Oracle shall reveal what **they** don't want you to know.*
 
-A dark gothic web app that generates AI-powered conspiracy theory essays from a single keyword — built for atmosphere and paranoia.
-
 * 🔮 **AI-Generated Dossiers** — Groq (LLaMA 3.1) produces gripping 3-paragraph investigative essays
 * 🏚️ **Animated SVG Haunted Houses** — procedural pen-sketch reveal on load, parallax on mouse
 * ⚡ **Web Audio API** — generative wind, thunder, typewriter sounds, and ghostly crystal ball whispers
